@@ -1,2 +1,3 @@
 # Learning-GraphQL
-Learning GraphQL and it's pros &amp; cons
+Learning GraphQL and it's pros &amp; cons.
+
